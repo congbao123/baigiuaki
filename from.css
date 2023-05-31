@@ -1,0 +1,76 @@
+label{
+    margin-right: 60px;
+}
+.container{
+   margin-left:40%;
+   margin-right:20%;
+   padding-top:20px;
+   background-color: #E8E8E8;
+   padding-bottom:20px;
+   padding-left: 10px;
+}
+#username{
+    width: 450px; 
+    height: 30px;
+    border-radius: 4px;
+}
+.yemail{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#email{
+    width: 450px; 
+    height: 30px;
+    border-radius: 4px;
+}
+.yphone{
+    margin-top: 20px;
+    margin-left: 28px;
+}
+#phone{
+    width: 450px; 
+    height: 30px;
+    border-radius: 4px;
+}
+
+
+.yGender{
+    margin-top: 20px;
+    margin-left: 30px; 
+}
+#country{
+    width: 400px;
+    height: 30px;
+    background-color: aliceblue;
+}
+.ycountry{
+    margin-top: 20px;
+    margin-left: 20px; 
+}
+.ycomment{
+    margin-top: 20px; 
+    margin-left:-10px;
+}
+#comment{
+    width: 450px; 
+    height: 100px;  
+    border-radius: 4px;
+}   
+
+#submit1{
+    width:70px;
+    height:35px;
+   
+    background-color: #00FF00;
+    border-radius: 7px;
+}
+#submit2{
+    width:70px;
+    height:35px;
+    background-color:red ;
+    border-radius: 7px;
+}
+.sumit{
+    margin-top:10px;
+    margin-left:400px;
+}

@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    background-color: black;
+    padding: 0px;
+}
+.main-nav ul{
+    list-style:none;
+}
+.main-nav li{
+    display: inline-block;
+    position: relative;
+    margin-right:10px;
+}
+.main-nav a{
+    text-decoration: none;
+    color: rgb(26, 214, 51);
+    padding: 10px;
+}
+
+.main-nav a:hover{
+    background-color:red;
+}
+.main-nav ul ul{
+    position: absolute;
+    top:100%;
+    left: 0;
+    display: none;
+    background-color: white;
+    color: black;
+    padding: 20px;
+}
+.main-nav li:hover ul {
+    display: block;
+  }
+  .main-nav li ul li {
+    display: block;
+    color: black;
+    margin-bottom: 10px;
+  }

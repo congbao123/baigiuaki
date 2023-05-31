@@ -1,0 +1,136 @@
+.img{
+    margin-left: 50px;
+    display: flex;
+}
+.menu ul{
+  display: flex;
+  list-style-type:none;
+  float:right;
+  margin-right:100px;
+}
+.menu li{
+  margin-right: 10px;
+}
+.container{
+ width: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+.trungtamimg{
+  margin-left: 40px;
+  margin-right:60px;
+  opacity: 2;
+}
+.image-caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+}
+.canhchu{
+  margin-left: 35px;
+}
+.otrong{
+  padding:auto;
+  border-bottom: solid 3px black ;
+  margin-left: 40px;
+  margin-right:60px;
+  margin-top: 10px;
+}
+.tieude{
+  text-decoration: underline rgb(61, 174, 89);
+  margin-left: 40%;
+}
+.fa-solid.fa-music{
+  width: 50px;
+  height: 50px;
+}
+.mic{
+  margin-left: 200px;
+  margin-top: 150px;
+}
+.fa-solid.fa-volume-high.fa-2xl{
+  font-size: 90px;
+  margin-left:30px;
+  margin-bottom: 45px;
+}
+.mauchu{
+  color: rgb(87, 244, 147);
+}
+.chu-on-mic{
+  margin-left: 10px;
+}
+.chuh4{
+  margin-left:15px;
+}
+.tong-khung-giua{
+  display: flex;
+}
+.amthanh{
+  margin-left: 240px;
+  margin-top: 150px;
+}
+.fa-solid.fa-microphone-lines.fa-2xl{
+  font-size: 90px;
+  margin-left:20px;
+  margin-bottom: 45px;
+}
+.cangchu{
+  margin-left: 30px;
+}
+.amthanh2{
+  margin-left: 240px;
+  margin-top: 150px;
+}
+.fa-solid.fa-mobile-screen.fa-2xl{
+  font-size: 90px;
+  margin-left:60px;
+  margin-bottom: 45px;
+}
+.chu-on-mic2{
+  margin-left: 25px;
+}
+.chu5{
+  margin-left:30px;
+}
+.cuoidong{align-items: center; margin-left:44% ; }
+.khunganh1{
+   border: solid 2px rgb(124, 120, 120) ;
+   margin-right:80%;
+   margin-left:5%;
+  }
+  .h5kc{
+    font-size:20px;
+    margin-left: 25px;
+  }
+  .khungtongcuoi{
+    display: flex;
+  }
+  .khunganh2{
+    border: solid 2px rgb(124, 120, 120) ;
+    margin-left:-70%;
+   }
+  .h5kc1{
+    font-size:20px;
+    margin-left: 82px;
+  }
+  .khunganh3{
+    border: solid 2px rgb(124, 120, 120) ;
+    margin-left:10%;
+   }
+  .h5kc2{
+    font-size:20px;
+    margin-left: 45px;
+  }
+  .khunganh4{
+    border: solid 2px rgb(124, 120, 120) ;
+    margin-left:10%;
+   }
+  .h5kc3{
+    font-size:20px;
+    margin-left: 45px;
+  }
